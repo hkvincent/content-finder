@@ -1,0 +1,5 @@
+llama_index
+requests  # If your project needs to make HTTP requests
+numpy  # Often used in data processing and may be a dependency
+pandas  # If you're handling dataframes in your project
+python-dotenv  # If you're using environment variables
